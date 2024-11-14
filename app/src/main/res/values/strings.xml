@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Expense</string>
+    <string name="expense_list">花费项目</string>
+    <string name="expense_name_label">花费项目</string>
+    <string name="expense_name_empty">项目名称不能为空</string>
+    <string name="complete">完成</string>
+    <string name="expense_date_incorrect">日期格式不正确</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="expense_price_incorrect">金额格式不正确</string>
+    <string name="add_expense">新增</string>
+</resources>
